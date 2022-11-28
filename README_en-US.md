@@ -1,4 +1,4 @@
-![Neon Mango Logo](./Neon/Neon_Mango.png)
+![Neon Mango Logo](Neon/NeonLogo.svg)
 
 # Neon Mango Game Engine    
 [English](README_en-US.md) • [简体中文](README_zh-CN.md)
