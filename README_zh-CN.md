@@ -9,8 +9,8 @@
 [安装](#安装) • [支持](#支持) • [许可](#许可)
 
 ## 安装
-    - [x] Visual Studio
-    - [x] [.net 6.0](get.dot.net)
+- [x] Visual Studio
+- [x] [.net 6.0](get.dot.net)
 
 
 ## 支持
