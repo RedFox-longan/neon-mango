@@ -9,7 +9,7 @@
 [安装](#安装) • [支持](#支持) • [许可](#许可)
 
 ## 安装
-- [x] Visual Studio
+- [x] Visual Studio 2022
 - [x] [.net 6.0](https://get.dot.net)
 
 
