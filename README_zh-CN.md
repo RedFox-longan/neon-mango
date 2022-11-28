@@ -10,7 +10,7 @@
 
 ## 安装
 - [x] Visual Studio
-- [x] [.net 6.0](get.dot.net)
+- [x] [.net 6.0](https://get.dot.net)
 
 
 ## 支持
