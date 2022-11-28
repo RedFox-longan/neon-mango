@@ -1,4 +1,4 @@
-![Neon Mango Logo](Neon/NeonLogo.svg)
+![Neon Mango Logo](Neon/NeonLogo.png)
 
 # Neon-Mango
 
