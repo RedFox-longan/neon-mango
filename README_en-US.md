@@ -10,6 +10,9 @@ It is expected that all mainstream computer platforms (OSX, Windows and Linux) c
 
 ## Install
 
+- [x] Visual Studio 2022
+- [x] [.net 6.0](https://get.dot.net)
+
 ## Support
 - environment platform
     - [x] Windows 
